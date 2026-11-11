@@ -1,48 +1,40 @@
-<h1 align="center">Hi, I'm Raed Shihab 👋</h1>
-<p align="center">
-  <b>AI Content Creator & Web Builder · Stockholm, Sweden 🇸🇪</b><br/>
-  I build Arabic-first digital guides and AI-powered content that help Arabic speakers understand life in Sweden.
+<h1 align="center">RAED SHIHAB · رائد شهاب</h1>
+
+<p align="center" dir="rtl">
+  <strong>صانع محتوى عربي ومنتج فيديو بالذكاء الاصطناعي · ستوكهولم، السويد</strong><br>
+  أصنع فيديوهات عن السفر والحياة في السويد، وأطوّر أدلة عربية تساعد الناس على فهم الخدمات والحياة اليومية.
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@Arabsweden"><img src="https://img.shields.io/badge/YouTube-ARAB%20SWEDEN-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <img src="https://img.shields.io/badge/RAED%20AI%20LAB-Founder-0A66C2?style=for-the-badge" alt="RAED AI LAB"/>
-  <img src="https://img.shields.io/badge/Languages-Arabic%20%7C%20Swedish%20%7C%20English-2EA44F?style=for-the-badge" alt="Languages"/>
+  <strong>Arabic content creator &amp; AI video producer · Stockholm, Sweden</strong><br>
+  I make travel videos, build Arabic-first web guides, and develop tools for AI-assisted storytelling.
 </p>
 
----
+<p align="center">
+  <a href="https://arabsweden.github.io/stockholm-guide/portfolio/"><strong>معرض الأعمال · Portfolio</strong></a> ·
+  <a href="https://www.youtube.com/@Arabsweden"><strong>عرب السويد · YouTube</strong></a> ·
+  <a href="https://linktr.ee/raedshihab"><strong>جميع الروابط · Linktree</strong></a>
+</p>
 
-### 🚀 What I do
+## مشاريع مختارة · Featured projects
 
-- 🎬 **AI video production**: scripts, scene breakdowns, voice-over and editing for YouTube, TikTok and Reels
-- 🌐 **Web building**: fast, bilingual (Arabic / Swedish) informational websites
-- 🧭 **Guides for newcomers**: clear Arabic explanations of Swedish institutions, rights and daily life
-- 🗺️ **Community**: *Naltaqi Stockholm*, walking tours that connect the Arab community in Stockholm
+| المشروع · Project | ماذا تجد فيه؟ · What you'll find |
+| --- | --- |
+| **[RAED AI LAB](https://github.com/arabsweden/raed-ai-lab)** | قوالب RAED7 وأدوات لإنتاج الفيديو بالذكاء الاصطناعي.<br>Reusable templates and workflows for AI video production. |
+| **[Stockholm Guide](https://github.com/arabsweden/stockholm-guide)** | جولات في ستوكهولم ومحتوى عن مدن السويد.<br>Stockholm walking tours and Swedish city stories. |
+| **[دليلك في السويد · Dalilak fi Sweden](https://github.com/arabsweden/dalilak-fi-sweden)** | دليل عربي للسكن والعمل والخدمات العامة والحياة اليومية.<br>An Arabic guide to housing, work, and public services. |
+| **[جسر الأسرة · Familjebron Sverige](https://github.com/arabsweden/familjebronsverige)** | مواد عربية عن الحوار بين الأسرة والمدرسة وفهم خدمات دعم الأسرة.<br>Arabic resources on family–school dialogue and family support. |
+| **[سويدنا الآن · Sverige Nu](https://github.com/arabsweden/sverige-nu)** | أخبار ومستجدات سويدية مشروحة بالعربية.<br>Swedish news and public updates explained in Arabic. |
 
-### 🧪 Projects at RAED AI LAB
+**المزيد · More projects**  
+[التعريف بالمجتمع السويدي · SverigeGuide](https://github.com/arabsweden/sverigeguide-civic-orientation) · [دليل العمل · Jobb i Sverige](https://github.com/arabsweden/jobb-i-sverige-guide) · [أكاديمية صناعة المحتوى · Content Creator Academy](https://github.com/arabsweden/content-creator-academy)
 
-| Project | What it is |
-|---|---|
-| **Familjebron Sverige** (جسر الأسرة) | Arabic platform for families: school, social services, child rights |
-| **Sverige Nu** (سويدنا الآن) | Official Swedish news & rule updates explained in Arabic |
-| **Dalilak fi Sweden** | Practical Arabic guide to everyday life in Sweden |
-| **SverigeGuide** | Trilingual civic orientation platform for newcomers |
-| **Jobb i Sverige Guide** | Arabic job search, Swedish CV and interview coach |
-| **Content Creator Academy** | Learn content creation, editing and monetization in Arabic |
+## تعاون وفرص عمل · Work with me
 
-### 🛠️ Tools I use
+<p dir="rtl">
+  أعمل على إنتاج الفيديو العربي، من الفكرة والسيناريو إلى التعليق الصوتي والمونتاج. وأطوّر نماذج لمواقع وأدلة رقمية. يسعدني التعاون مع فرق الإنتاج والمشاريع الصغيرة، خصوصًا في المحتوى السياحي والإعلانات القصيرة.
+</p>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=flat-square&logo=google&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat-square)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square)
+I’m open to creative collaborations and roles in AI video production, travel storytelling, and Arabic digital content.
 
-### 🤝 Let's work together
-
-I help small businesses, restaurants, shops and Arabic-speaking entrepreneurs in Sweden with AI videos, scripts, social media and websites.
-📩 Reach me through my [YouTube channel](https://www.youtube.com/@Arabsweden).
-
-<p align="center"><i>"Making Sweden easier to understand — in Arabic."</i></p>
+**[شاهد نماذج أعمالي وتواصل معي · View my work and get in touch](https://arabsweden.github.io/stockholm-guide/portfolio/#contact)**
