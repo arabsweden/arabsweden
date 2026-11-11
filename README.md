@@ -28,7 +28,8 @@
 
 I’m producing an Arabic video series about Sweden’s cities, their history, landmarks, and nearby nature for viewers worldwide, especially people living in Sweden. I’ve covered **around 30 cities** so far, with one-minute introductions and multiple episodes for some larger cities, including longer features. My goal is to cover the whole country.
 
-**[شاهد الفيديوهات على قناة عرب السويد · Watch on Arab Sweden](https://www.youtube.com/@Arabsweden)**
+**[شاهد قائمة مدن السويد على تيك توك · Watch the TikTok playlist](https://www.tiktok.com/@dalelak.sweden/playlist/%F0%9F%87%B8%F0%9F%87%AA%20%D9%85%D8%AF%D9%86%20%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%20%7C%20Cities-7689479121156164374)**  
+[قناة عرب السويد · YouTube](https://www.youtube.com/@Arabsweden)
 
 ## مشاريع مختارة · Featured projects
 
