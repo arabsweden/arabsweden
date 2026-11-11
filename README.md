@@ -16,6 +16,20 @@
   <a href="https://linktr.ee/raedshihab"><strong>جميع الروابط · Linktree</strong></a>
 </p>
 
+## مدن السويد · Cities of Sweden
+
+<p dir="rtl">
+  «مدن السويد» سلسلة فيديوهات أعمل عليها ضمن <strong>Stockholm Guide</strong> لتعريف الجمهور حول العالم، وخصوصًا المقيمين في السويد، بمدن البلاد وتاريخها ومعالمها والأماكن الطبيعية المحيطة بها. هدفي أن أغطّي السويد كلها، مدينةً بعد مدينة.
+</p>
+
+<p dir="rtl">
+  غطّيت حتى الآن <strong>نحو 30 مدينة</strong>. أقدّم كثيرًا منها في فيديو تعريفي مدته دقيقة، وخصّصت لبعض المدن الكبرى أكثر من حلقة، منها حلقات أطول من دقيقة.
+</p>
+
+I’m producing an Arabic video series about Sweden’s cities, their history, landmarks, and nearby nature for viewers worldwide, especially people living in Sweden. I’ve covered **around 30 cities** so far, with one-minute introductions and multiple episodes for some larger cities, including longer features. My goal is to cover the whole country.
+
+**[شاهد الفيديوهات على قناة عرب السويد · Watch on Arab Sweden](https://www.youtube.com/@Arabsweden)**
+
 ## مشاريع مختارة · Featured projects
 
 | المشروع · Project | ماذا تجد فيه؟ · What you'll find |
